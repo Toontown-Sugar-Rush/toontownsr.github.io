@@ -1,0 +1,27 @@
+body {
+	background-color: rgb(133, 69, 40);
+	font-family: Comic sans MS;
+}
+
+.title {
+	text-align: center;
+	color: rgb(253, 188, 30);
+}
+
+.logo .ttsrlogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+ul li {
+	text-align: center;
+	color: rgb(253, 188, 30);
+	list-style-type: none;
+}
+
+p {
+	text-align: center;
+	color: rgb(253, 188, 30);
+}
