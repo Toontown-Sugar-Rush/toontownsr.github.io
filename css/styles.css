@@ -1,12 +1,12 @@
 body {
-	background-color: rgb(133, 69, 40);
+	background-color: rgb(253, 150, 121);
 	font-family: Comic sans MS;
 	font-size: 20px;
 }
 
 .title {
 	text-align: center;
-	color: rgb(253, 188, 30);
+	color: rgb(5, 0, 2);
 }
 
 .logo .ttsrlogo {
@@ -18,11 +18,11 @@ body {
 
 ul li {
 	text-align: center;
-	color: rgb(253, 188, 30);
+	color: rgb(5, 0, 2);
 	list-style-type: none;
 }
 
 p {
 	text-align: center;
-	color: rgb(253, 188, 30);
+	color: rgb(5, 0, 2);
 }
